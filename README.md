@@ -1,3 +1,6 @@
 # QTAS PDF
 
-Small application to split source pdf into sections and convert sections into word docs (docx format)
+Small application to extract data from Pearson Education documents and restructure module requirements into matching format for QTAS internal processes.
+
+
+
